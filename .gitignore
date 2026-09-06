@@ -1,0 +1,9 @@
+# Ignore OS-generated files
+Thumbs.db
+Desktop.ini
+
+# Ignore digital certificate files if placed in the repository by mistake
+*.cer
+*.p7b
+*.pfx
+*.key
